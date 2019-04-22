@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Robert Yee\Desktop\X 120a\Lab3\and_gate.ncd
+OUTFILE=C:\Users\Robert Yee\Desktop\X 120a\Lab3\and_gate.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=C:\Users\Robert Yee\Desktop\X 120a\Lab3
+LICENSE=WebPack
+USER_INFO=211463084_0_0_650

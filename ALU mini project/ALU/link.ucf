@@ -1,0 +1,15 @@
+# clock pin for Basys Board
+// Inputs
+NET "in1[2]" LOC = "N3" ;
+NET "in1[1]" LOC = "E2" ;
+NET "in1[0]" LOC = "F3" ;
+NET "in2[2]" LOC = "G3" ;
+NET "in2[1]" LOC = "B4" ;
+NET "in2[0]" LOC = "K3" ;
+NET "sele[1]" LOC = "L3" ;
+NET "sele[0]" LOC = "P11" ;
+// Outputs
+NET "out[3]" LOC = "P6" ; 
+NET "out[2]" LOC = "P7" ; 
+NET "out[1]" LOC = "M11" ; 
+NET "out[0]" LOC = "M5" ; 

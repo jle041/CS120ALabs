@@ -1,0 +1,5 @@
+//Output
+NET "d" LOC = "M5" ; # Bank = 3, Signal name = LD0
+//input
+NET "i1" LOC = "P11"; # Bank = 3, Signal name = SW1
+NET "i2" LOC = "L3"; # Bank = 2, Signal name = SW0

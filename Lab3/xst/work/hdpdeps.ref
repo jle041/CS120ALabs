@@ -1,0 +1,9 @@
+V3 5
+FL "C:/Users/Robert Yee/Desktop/X 120a/Lab3/and_gate.vhf" 2018/01/31.18:58:47 P.20131013
+EN work/and_gate 1517455033 \
+      FL "C:/Users/Robert Yee/Desktop/X 120a/Lab3/and_gate.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/and_gate/BEHAVIORAL 1517455034 \
+      FL "C:/Users/Robert Yee/Desktop/X 120a/Lab3/and_gate.vhf" EN work/and_gate 1517455033 \
+      CP AND2

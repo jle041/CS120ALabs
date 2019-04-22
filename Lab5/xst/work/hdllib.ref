@@ -1,0 +1,4 @@
+MO register_logic NULL "share (3)/register_logic.v" vlg7A/register__logic.bin 1542667666
+MO falogic NULL "share (3)/falogic.v" vlg09/falogic.bin 1542667666
+MO carrylogic NULL "share (3)/carrylogic.v" vlg47/carrylogic.bin 1542667666
+MO carrylookahead_bh NULL "share (3)/carrylookahead_bh.v" vlg5A/carrylookahead__bh.bin 1542667667

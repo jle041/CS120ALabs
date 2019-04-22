@@ -1,0 +1,29 @@
+Command line:
+   Laser_Surgery_System_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53382
+
+Wed Mar 07 18:42:56 2018
+
+
+ Elaboration Time: 0.296875 sec
+
+ Current Memory Usage: 1688.71 Meg
+
+ Total Signals          : 209
+ Total Nets             : 294
+ Total Signal Drivers   : 116
+ Total Blocks           : 40
+ Total Primitive Blocks : 35
+ Total Processes        : 122
+ Total Traceable Variables  : 35
+ Total Scalar Nets and Variables : 613
+Total Line Count : 135
+
+ Total Simulation Time: 0.328125 sec
+
+ Current Memory Usage: 1059.53 Meg
+
+Wed Mar 07 18:46:58 2018
+

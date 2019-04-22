@@ -1,0 +1,4 @@
+verilog work "share (3)/register_logic.v"
+verilog work "share (3)/falogic.v"
+verilog work "share (3)/carrylogic.v"
+verilog work "share (3)/carrylookahead_bh.v"

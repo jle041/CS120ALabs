@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/.Xilinx/ALU/Main.v -lang verilog -prj ALU -o add.spl -module add -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e add.spl C:/.Xilinx/ALU/add.sym 

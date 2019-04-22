@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/ALU/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/ALU/xst"
+elaborate
+-ifn shift.prj
+-ifmt mixed

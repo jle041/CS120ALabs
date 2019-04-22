@@ -1,0 +1,3 @@
+vhdl work "and_gate.vhf"
+verilog work "lab3/share/part1/and2_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Robert Yee/Desktop/X 120a/Lab6/Laser_Surgery_System_tb_isim_beh.exe" -prj "C:/Users/Robert Yee/Desktop/X 120a/Lab6/Laser_Surgery_System_tb_beh.prj" "work.Laser_Surgery_System_tb" "work.glbl" 

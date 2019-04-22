@@ -1,0 +1,7 @@
+verilog work "share (4)/fulladder_st.v"
+verilog work "share (4)/comparatorgen.v"
+verilog work "share (4)/addergen.v"
+verilog work "share (4)/flopr.v"
+verilog work "share (4)/adder.v"
+verilog work "share (4)/timer_st.v"
+verilog work "share (4)/laser_surgery_sys.v"

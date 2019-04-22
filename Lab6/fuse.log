@@ -1,0 +1,33 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Robert Yee/Desktop/X 120a/Lab6/Laser_Surgery_System_tb_isim_beh.exe" -prj "C:/Users/Robert Yee/Desktop/X 120a/Lab6/Laser_Surgery_System_tb_beh.prj" "work.Laser_Surgery_System_tb" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/fulladder_st.v" into library work
+Analyzing Verilog file "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/comparatorgen.v" into library work
+Analyzing Verilog file "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/addergen.v" into library work
+Analyzing Verilog file "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/flopr.v" into library work
+Analyzing Verilog file "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/adder.v" into library work
+Analyzing Verilog file "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/timer_st.v" into library work
+Analyzing Verilog file "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/laser_surgery_sys.v" into library work
+Analyzing Verilog file "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/Laser_Surgery_System_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/adder.v" Line 23: Size mismatch in connection of port <b>. Formal port size is 32-bit while actual signal size is 16-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Robert Yee/Desktop/X 120a/Lab6/share (4)/adder.v" Line 24: Size mismatch in connection of port <cin>. Formal port size is 1-bit while actual signal size is 16-bit.
+Completed static elaboration
+Compiling module fulladder_st
+Compiling module addergen_st(NBITS=32)
+Compiling module comparatorgen_st(NBITS=32)
+Compiling module adder(NBITS=32)
+Compiling module flopr(NBITS=32)
+Compiling module timer_st(NBITS=32)
+Compiling module laser_surgery_sys
+Compiling module Laser_Surgery_System_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 9 Verilog Units
+Built simulation executable C:/Users/Robert Yee/Desktop/X 120a/Lab6/Laser_Surgery_System_tb_isim_beh.exe
+Fuse Memory Usage: 29072 KB
+Fuse CPU Usage: 796 ms
