@@ -1,0 +1,5 @@
+verilog work "part3/disp_mux_bh.v"
+verilog work "part3/bcdto7led_bh.v"
+verilog work "part3/disp_mux_main_bh.v"
+verilog work "disp_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

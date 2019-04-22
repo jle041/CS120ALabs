@@ -1,0 +1,2 @@
+verilog work "part2/clkdiv.v"
+verilog work "part2/edgedetector_bh.v"

@@ -1,0 +1,4 @@
+NET "clk" LOC = "B8";
+
+NET "signal" LOC = "N3";
+NET "outedge" LOC = "M5";

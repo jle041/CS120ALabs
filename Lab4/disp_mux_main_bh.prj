@@ -1,0 +1,3 @@
+verilog work "part3/disp_mux_bh.v"
+verilog work "part3/bcdto7led_bh.v"
+verilog work "part3/disp_mux_main_bh.v"

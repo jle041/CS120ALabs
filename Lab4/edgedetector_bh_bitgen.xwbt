@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Robert Yee\Desktop\X 120a\Lab4\edgedetector_bh.ncd
+OUTFILE=C:\Users\Robert Yee\Desktop\X 120a\Lab4\edgedetector_bh.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=C:\Users\Robert Yee\Desktop\X 120a\Lab4
+LICENSE=WebPack
+USER_INFO=211463084_0_0_650

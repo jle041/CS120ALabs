@@ -1,0 +1,10 @@
+//clock
+NET "clk" LOC = "B8" ;
+
+//inputs
+NET "call_button" LOC = "C11" ;
+NET "cancel_button" LOC = "G12" ;
+NET "reset" LOC = "A7" ;
+
+//outputs
+NET "light_state" LOC = "M5" ;
